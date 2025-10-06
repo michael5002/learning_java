@@ -1,4 +1,5 @@
-#using jshell on windows cmd prompt
+/*using jshell on windows cmd prompt*/
+
 jshell> int myValue = 5;
 myValue ==> 5
 

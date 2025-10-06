@@ -1,4 +1,4 @@
-#using jshell on windows cmd prompt
+/*using jshell on windows cmd prompt*/
 
 
 jshell> myVariable = 4
